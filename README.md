@@ -60,7 +60,6 @@ Whether it’s building models, cleaning messy CSVs, or exploring how economic t
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/i_matere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_matere" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/emmanuel matere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel matere" height="30" width="40" /></a>
 <a href="https://kaggle.com/isaacmatere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="isaacmatere" height="30" width="40" /></a>
 <a href="https://instagram.com/i_saac.irl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_saac.irl" height="30" width="40" /></a>
 </p>
