@@ -1,71 +1,59 @@
 # 👋🏽 Hey, I’m Isaac Matere
 
-🎓 Economics student | 📊 Data Analyst (in training) | 🚀 Aprising Entrepreneur  
-Driven by curiosity, refined by design, committed to calm.
+**Economist | Data Analyst | Tech Minimalist**
+
+I am an Economist with a strong passion for technology. I believe that data is a living story, one that provides a clear vision of where we can go next. 
+My interest in technology is driven by a deep curiosity; I often find myself wondering what more my hardware is capable of and how I can gain control to shape it into something I am truly comfortable using. This is why I enjoy rooting and installing custom ROMs on my mobile devices, and why I use Linux to ensure my PC reaches its optimal performance.
 
 ---
 
-### 🔍 About Me
-
-I’m fascinated by systems, whether in markets, minds, or minimalist spaces.
-As an aspiring entrepreneur, I aim to help people redesign their spaces with intentional, clutter-free living, pushing for minimalism and aesthetics.
-As a data analyst in the making, I work on understanding the world through numbers.
-I believe in the power of data, not just to explain the world, but to **shape it**.  
-Whether it’s building models, cleaning messy CSVs, or exploring how economic theory meets real-world policy, I’m here to do more than learn. I’m here to **create**.
-
-> _"If it isn’t useful, beautiful, or peaceful... it’s just noise."_  
-> — **Me**, always decluttering something
+### 🔍 The Philosophy: Clarity Over Clutter
+As an analyst and aspiring entrepreneur, I believe that if a system (or a dashboard) isn't providing clear, actionable utility, it is just noise. 
+- **In Data:** I prioritize data exploration, cleaning, trend analysis and visualizations.
+- **In Tech:** I advocate for digital tinkering with **AOSP**, custom ROMs, and **Linux** to reclaim control over my hardware.
+- **In Economics:** I’m fascinated by how Economics as a whole explains the hidden incentives behind human behavior and also explaining the broader market behaviours of why certain things happen, what makes them happen, and how to alter them for a good cause.
 
 ---
 
-### 🛠 What I’m Working On
-
-#### 📈 As a Data Analyst:
-- **GitHub Portfolio Projects** (in progress):
-  - Kenya Vision 2030: Economic Progress Tracker
-  - Youth Unemployment Heatmaps
-  - Public Budget Visualizer
+### 🛠️ Current Portfolio Project
+*   **[Uber Revenue Analysis](https://github.com/M-atere/Uber-Revenue-Analysis):** A SQL investigation into supply-demand imbalances across 4 major US cities.
 
 ---
 
-### 📚 Currently Learning
+### 🧰 Technical Toolkit
 
-- Python for Data Analysis (Pandas, Seaborn, Jupyter)
-- SQL & databases
-- Git + GitHub version control
-- Economic modeling and policy evaluation
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Data Analysis** | SQL (Postgres/MySQL), Python (Pandas), Excel, Google Sheets |
+| **Economics** | Econometric Modelling, Statistical Inference, Labor Market Analysis |
+| **OS & Systems** | Linux (Ubuntu), AOSP, Android Rooting & Custom ROMs |
+| **Currently Learning** | Matplotlib, Seaborn, and Advanced SQL Window Functions |
+
+<p align="left">
+  <!-- Linux Icon -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <!-- Android Icon -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
+  <!-- Python Icon -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <!-- SQL Icon -->
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="sql" width="40" height="40"/>
+  <!-- Git Icon -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="70" height="35"/>
+</p>
 
 ---
 
 ### 🏀 Beyond the Screen
+- **Anime:** I'm such a huge fan of the effort put into animating anime; not only are there deep story lines, but it also gives visual satisfaction
+- **Games & Physical Fitness:** I enjoy playing basketball, 8-ball billiards, and going on runs
+- **Technology:** Always led by a surge of curiosity, especially in tinkering with Android OS and PC OS. I view technology as something that one should fully understand and control according to one's specific needs
 
-- Anime as philosophy  
-- Basketball as strategy  
-- Designing spaces as a form of meditation
-
----
-
-### 📫 Let’s Connect
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/emmanuel-matere-b580a1193)  
-- 📧 emmanuelmatere@gmail.com  
+> "If it isn’t useful, beautiful, or peaceful... It’s just noise."
 
 ---
-
-### 💬 Final Thought
-
-> “Whether it’s data or design, the goal is clarity.”
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/i_matere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_matere" height="30" width="40" /></a>
-<a href="https://kaggle.com/isaacmatere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="isaacmatere" height="30" width="40" /></a>
-<a href="https://instagram.com/i_saac.irl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_saac.irl" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-atere&" alt="m-atere" /></p>
+### 📫 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/emmanuel-matere-b580a1193) | [Kaggle](https://kaggle.com/isaacmatere) | emmanuelmatere@gmail.com</a>
 
