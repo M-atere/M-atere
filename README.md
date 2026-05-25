@@ -15,8 +15,9 @@ As an analyst and aspiring entrepreneur, I believe that if a system (or a dashbo
 
 ---
 
-### 🛠️ Current Portfolio Project
+### 🛠️ Current Portfolio Projects
 *   **[Uber Revenue Analysis](https://github.com/M-atere/Uber-Revenue-Analysis):** A SQL investigation into supply-demand imbalances across 4 major US cities.
+*   **[Uber Peak Hours Analysis](https://github.com/M-atere/Uber-Peak-Hours-Analysis):** A SQL investigation into peak operational hours across the entire dataset and individual cities
 
 ---
 
